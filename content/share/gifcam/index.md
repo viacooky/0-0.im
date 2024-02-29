@@ -2,6 +2,7 @@
 title: GifCam - Windows 下简单好用的 GIF 录制编辑软件
 date: 2024-02-26T16:47:48+08:00
 lastmod: 2024-02-26T16:47:48+08:00
+type: posts
 tags:
   - gif
   - 截图

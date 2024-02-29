@@ -2,14 +2,15 @@
 title: git - 删除所有提交记录
 date: 2024-02-26T16:24:23+08:00
 lastmod: 2024-02-26T16:24:23+08:00
+type: posts
 tags:
-- git
+  - git
 categories:
-- Linux
-- Windows
+  - Linux
+  - Windows
 ---
 
-有些时候强迫症发作，需要删除git的所有历史记录，把仓库初始化掉。
+有些时候强迫症发作，需要删除 git 的所有历史记录，把仓库初始化掉。
 
 ```bash
 # 签出一个孤立分支 bk

@@ -2,6 +2,7 @@
 title: shields.io - 生成简洁、一致、清晰的徽章
 date: 2024-02-28T13:51:42+08:00
 lastmod: 2024-02-28T13:51:42+08:00
+type: posts
 tags:
   - github
   - markdown

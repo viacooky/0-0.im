@@ -2,6 +2,7 @@
 title: ssh - 设置免密码登录
 date: 2024-02-26T12:49:17+08:00
 lastmod: 2024-02-26T12:50:17+08:00
+type: posts
 tags:
   - ssh
 categories:

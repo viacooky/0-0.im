@@ -2,6 +2,7 @@
 title: simpleicons.io - 超过 3000 个流行品牌的免费 SVG 图标
 date: 2024-02-28T13:51:42+08:00
 lastmod: 2024-02-28T13:51:42+08:00
+type: posts
 tags:
   - icons
 categories:

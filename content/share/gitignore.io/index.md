@@ -2,6 +2,7 @@
 title: gitignore.io - 为你的项目创建必要的 .gitignore 文件
 date: 2024-02-26T12:49:17+08:00
 lastmod: 2024-02-28T14:27:30+08:00
+type: posts
 tags:
   - git
 categories:
