@@ -4,7 +4,7 @@
 # -------------------------------------------------------------------------------------
 
 title = "0-0.im"
-baseURL = "https://localhost:1313"
+baseURL = "https://0-0.im"
 theme = "FixIt"
 defaultContentLanguage = "zh-cn"
 languageCode = "zh-CN"
@@ -12,9 +12,9 @@ languageName = "简体中文"
 hasCJKLanguage = true
 enableRobotsTXT = true
 enableEmoji = true
-enableGitInfo = true
+enableGitInfo = false
 relativeURLs = false
 buildDrafts = false
-summaryLength = 150
+summaryLength = 0
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
