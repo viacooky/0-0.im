@@ -2,6 +2,7 @@
 title: Hello World
 date: 2024-02-21T09:14:22+08:00
 lastmod: 2024-02-21T12:49:17+08:00
+# type: posts
 draft: true
 type: posts
 # tags:
@@ -36,10 +37,25 @@ this is a center-quote shortcode example.
 
 ## 横幅
 
-[参考](https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/#admonition)
+[参考](https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/introduction/#admonition)
+
+type 支持以下：
+
+- note
+- abstract
+- info
+- tip
+- success
+- question
+- warning
+- failure
+- danger
+- bug
+- example
+- quote
 
 {{< admonition type=tip title="This is a tip" open=false >}}
-一个 **技巧** 横幅
+一个 **note** 横幅
 {{< /admonition >}}
 
 ```
