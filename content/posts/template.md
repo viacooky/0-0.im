@@ -19,6 +19,12 @@ categories:
 ![shell](https://img.shields.io/badge/Shell-Bash-blue)
 ![License](https://img.shields.io/github/license/Bash-it/bash-it)
 
+## 代码块 拓展语法
+
+```bash {title="100MB"}
+curl https://speed.cloudflare.com/__down?bytes=104857600 > /dev/null
+```
+
 ## center-quote
 
 [参考](https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/#center-quote)
