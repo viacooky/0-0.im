@@ -6,8 +6,8 @@ type: posts
 tags:
   - git
 categories:
-  - Linux
   - Windows
+  - Linux
 ---
 
 有些时候强迫症发作，需要删除 git 的所有历史记录，把仓库初始化掉。

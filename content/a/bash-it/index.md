@@ -1,5 +1,5 @@
 ---
-title: Bash-it - 优化Linux终端使用体验
+title: "[Linux] Bash-it - 优化 Linux 终端使用体验"
 date: 2024-02-26T14:43:46+08:00
 lastmod: 2024-02-26T14:43:46+08:00
 type: posts
@@ -7,8 +7,7 @@ tags:
   - bash
   - 自动补全
 categories:
-  - 软件
-  - Linux
+  - 应用
 ---
 
 ## 前言

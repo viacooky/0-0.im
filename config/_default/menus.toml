@@ -27,6 +27,18 @@ icon = "fa-solid fa-archive"
 type = ""
 
 
+# [[main]]
+# identifier = "categories"
+# parent = ""
+# pre = ""
+# post = ""
+# name = "分类"
+# url = "/categories/"
+# # title = ""
+# weight = 2
+# [main.params]
+# icon = "fa-solid fa-folder-tree"
+
 [[main]]
 identifier = "categories"
 parent = ""
@@ -34,23 +46,12 @@ pre = ""
 post = ""
 name = "分类"
 url = "/categories/"
-# title = ""
+title = ""
 weight = 2
 [main.params]
 icon = "fa-solid fa-folder-tree"
 [[main]]
-identifier = "software"
-parent = "categories"
-pre = ""
-post = ""
-name = "软件"
-url = "/categories/软件/"
-title = ""
-weight = 1
-[main.params]
-icon = "fa-solid fa-layer-group"
-[[main]]
-identifier = "services"
+identifier = "service"
 parent = "categories"
 pre = ""
 post = ""
@@ -60,28 +61,42 @@ title = ""
 weight = 1
 [main.params]
 icon = "fa-solid fa-server"
+
 [[main]]
-identifier = "Linux"
+identifier = "app"
 parent = "categories"
 pre = ""
 post = ""
-name = "Linux"
-url = "/categories/linux/"
+name = "应用"
+url = "/categories/应用/"
 title = ""
-weight = 0
+weight = 2
 [main.params]
-icon = "fa-brands fa-linux"
+icon = "fa-brands fa-app-store-ios"
+
 [[main]]
-identifier = "Windows"
+identifier = "windows"
 parent = "categories"
 pre = ""
 post = ""
 name = "Windows"
 url = "/categories/windows/"
 title = ""
-weight = 0
+weight = 3
 [main.params]
 icon = "fa-brands fa-windows"
+
+[[main]]
+identifier = "linux"
+parent = "categories"
+pre = ""
+post = ""
+name = "Linux"
+url = "/categories/linux/"
+title = ""
+weight = 4
+[main.params]
+icon = "fa-brands fa-linux"
 
 
 [[main]]

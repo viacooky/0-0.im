@@ -6,8 +6,8 @@ type: posts
 tags:
   - ssh
 categories:
-  - Linux
   - Windows
+  - Linux
 ---
 
 ## 1.目标机器

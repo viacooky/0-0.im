@@ -1,19 +1,24 @@
 ---
-title: 使用 Cloudflare 生成任意大小的下载文件
+title: 生成任意大小的下载文件，用于下载测试 - 使用 speed.cloudflare.com
 date: 2024-03-01T22:08:17+08:00
-lastmod: 2024-03-01T22:08:17+08:00
+lastmod: 2024-03-16:58:17+08:00
 type: posts
 tags:
   - Cloudflare
   - 网络
   - 测速
 categories:
-  - 服务
+  - Windows
+  - Linux
 ---
 
-![](./logo.png)
+**speed.cloudflare.com** 是一个由 Cloudflare 提供的网络性能测试工具
 
-<https://speed.cloudflare.com/> 是一个由 Cloudflare 提供的网络性能测试工具
+{{< admonition type=info title="传送门" open=true >}}
+
+详细介绍可查阅这篇文章: [《speed.cloudflare.com - Cloudflare 提供的网络测试工具》](../../s/speed.cloudflare.com/)
+
+{{< /admonition >}}
 
 除了进行网页测速以外，我们还可以使用 `https://speed.cloudflare.com/__down` 来生成自定义大小的文件进行下载测速
 
