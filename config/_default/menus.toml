@@ -27,18 +27,6 @@ icon = "fa-solid fa-archive"
 type = ""
 
 
-# [[main]]
-# identifier = "categories"
-# parent = ""
-# pre = ""
-# post = ""
-# name = "分类"
-# url = "/categories/"
-# # title = ""
-# weight = 2
-# [main.params]
-# icon = "fa-solid fa-folder-tree"
-
 [[main]]
 identifier = "categories"
 parent = ""
@@ -55,7 +43,7 @@ identifier = "service"
 parent = "categories"
 pre = ""
 post = ""
-name = "服务"
+name = "服务推荐"
 url = "/categories/服务/"
 title = ""
 weight = 1
@@ -67,7 +55,7 @@ identifier = "app"
 parent = "categories"
 pre = ""
 post = ""
-name = "应用"
+name = "应用推荐"
 url = "/categories/应用/"
 title = ""
 weight = 2
